@@ -4,5 +4,5 @@ fdsafd
 add modify2
 test git stage
 git track changes of list
-git branch is very fast and simple
+git branch is a very fast and simple
 not fastforward merge
